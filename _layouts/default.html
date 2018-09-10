@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    {% include head.html %}
+  </head>
+  <style>
+    .header {
+    padding: 30px;
+    text-align: center;
+    background: white;
+    }
+  </style>
+
+  <body>      
+    <div class="wrapper">
+
+      {% include sidebar.html %}
+
+      <section>
+	<div class="post">
+
+	  <article class="post-content">
+	    <!-- <h1 class="page-title"><center>{{ page.title }}</center></h1> -->
+	    {{ content }}
+	  </article>
+
+	</div>
+
+      </section>
+      
+    </div>
+
+  </body>
+
+</html>
