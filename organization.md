@@ -3,6 +3,8 @@ layout: default
 title: Organization
 ---
 
+# Organization
+
 __Local STIL Chair:__
 
 Paulo Henrique Ribeiro Gabriel (Federal University of Uberlândia – UFU, Brazil)

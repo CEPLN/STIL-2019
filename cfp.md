@@ -1,8 +1,10 @@
 ---
 layout: default
-title: CALL FOR PAPERS
+title: Call for papers
 ---
-# STIL - Symposium in Information and Human Language Technology
+
+# Call for papers
+
 _First Call for Papers: 11th Brazilian Symposium in Information and Human Language Technology_
 
 Uberlândia, MG, Brazil, October 2 - 4, 2017

@@ -3,6 +3,8 @@ layout: default
 title: Submissions
 ---
 
+# Submissions
+
 Formatting instructions
 
 Articles must be formatted using the SBC article style available

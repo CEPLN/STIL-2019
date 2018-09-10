@@ -1,9 +1,11 @@
 ---
 layout: default
-title: PROGRAM
+title: Program
 ---
 
-# Monday, October 2, 2017
+# Program
+
+### Monday, October 2, 2017
 
 |---------------------|-------:|
 | 08:30 AM - 12:00 AM | SALA M |
@@ -20,7 +22,7 @@ _Tutorial "Automatic Language Identification in Microblogs", by Clarissa Xavier,
 
 <br>
 
-# Tuesday, October 3, 2017
+### Tuesday, October 3, 2017
 
 |---------------------|-------------:|
 | 10:00 AM - 00:30 PM | Auditório A4 |
@@ -66,7 +68,7 @@ Silvia Maria Wanderley Moraes - Pontifícia Universidade Católica do Rio Grande
 
 <br>
 
-# Tuesday, October 3, 2017
+### Tuesday, October 3, 2017
 
 |---------------------|-------------:|
 | 10:00 AM - 00:30 PM | Auditório A4 |
@@ -139,7 +141,7 @@ Vinicius Sesti<br>
 
 <br>
 
-# Wednesday, October 4, 2017
+### Wednesday, October 4, 2017
 
 |---------------------|-------------:|
 | 04:00 PM - 06:00 PM | Auditório A4 |

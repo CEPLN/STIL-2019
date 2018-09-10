@@ -5,7 +5,6 @@ title: Home
 ---
 
 # STIL - Symposium in Information and Human Language Technology
-_HOME_
 
 **New:** The Proceedings of STIL are available at [https://goo.gl/93UTzK](https://goo.gl/93UTzK) .
 
