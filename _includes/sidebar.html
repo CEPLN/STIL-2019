@@ -1,5 +1,5 @@
 <header>
-  <h2 class="site-title" href="/udw18//">STIL 2017</h2>
+  <h2 class="site-title" >{{ site.data.utils.sdTitle }}</h2>
   
   <ul>
     <li><a class="page-link" href="{{ site.baseurl }}">Home</a></li>
@@ -12,15 +12,16 @@
 
   <h3>IMPORTANT DATES</h3>
   <ul>
-    <li><span><strike>May 7</strike> <b>May 26</b>: Submission </span></li>
+    <li><span><strike>May 7</strike> May 26: Submission </span></li>
     <li><span>August 4: Notification</span></li>
     <li><span>August 25: Camera Readies</span></li>
   </ul>
   
   <h3>CONTACT</h3>
   <ul>
-    <li><span><a href="mailto:vladiacelia@gmail.com">vladiacelia@gmail.com</a></span></li>
-    <li><span><a href="mailto:g.h.paetzold@sheffield.ac.uk">g.h.paetzold@sheffield.ac.uk</a></span></li>
+    {% for member in site.data.utils.contact %}
+    <li><span><a href="{{ member }}">{{ member}}</a></span></li>
+    {% endfor %}
   </ul>
 
 </header>
