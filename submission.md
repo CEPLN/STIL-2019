@@ -5,13 +5,13 @@ title: Submissions
 
 # Submissions
 
-Formatting instructions
+_Formatting instructions_
 
 Articles must be formatted using the SBC article style available
 [here](http://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos).
 
 
-Manuscript information
+_Manuscript information_
 
 Submitted papers must be written in English or Portuguese. We accept
 submissions of long and short papers. Long papers should describe
@@ -26,4 +26,4 @@ authors names and institutions should be omitted in the papers.
 
 Submit your paper
 
-Papers must be submitted in PDF format using JEMS system in [https://jems.sbc.org.br/jems2/](https://jems.sbc.org.br/jems2/). Please submit your paper until 26nd May, 2017.
+_TODO_
