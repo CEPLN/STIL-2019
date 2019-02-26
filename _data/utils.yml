@@ -1,6 +1,16 @@
 
-sdTitle: "STIL 2019"
+sideBarTitle: "STIL 2019"
+
+importantDates:
+  - "14/06/19: Final Submission"
+  - "15/08/19: Notification"
+  - "30/08/19: CamaraReader"
+  - "15/10/19: Start of STIL"
+
 
 contact:
-  - "lhmoliveira@gmail.com"
-  - "g.h.paetzold@sheffield.ac.uk"
+  - name:  "Carlos Augusto Prolo"
+    email: "lhmoliveira@gmail.com" 
+      
+  - name: "Leandro Henrique Mendonça de Oliveira"
+    email: "g.h.paetzold@sheffield.ac.uk"

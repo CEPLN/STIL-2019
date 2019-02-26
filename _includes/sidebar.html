@@ -1,5 +1,5 @@
 <header>
-  <h2 class="site-title" >{{ site.data.utils.sdTitle }}</h2>
+  <h2 class="site-title" >{{ site.data.utils.sideBarTitle }}</h2>
   
   <ul>
     <li><a class="page-link" href="{{ site.baseurl }}">Home</a></li>
@@ -12,16 +12,18 @@
 
   <h3>IMPORTANT DATES</h3>
   <ul>
-      <li><span>14/06/19: Final Submission</span></li>
-      <li><span>15/08/19: Notification</span></li>
-      <li><span>30/08/19: CamaraReader</span></li>
-      <li><span>15/10/19: Start of STIL</span></li>
+      {% for date in site.data.utils.importantDates %}
+
+      <li><span>{{ date }}</span></li>
+
+      {% endfor %}
   </ul>
   
   <h3>CONTACT</h3>
   <ul>
-      <li><span><a href="mailto:prolo@dimap.ufrn.br">Carlos Augusto Prol</a></span></li>
-      <li><span><a href="mailto:lhmoliveira@gmail.com">Leandro Henrique Mendonça de Oliveira</a></span></li>
+      {% for member in site.data.utils.contact %}
+      <li><span><a href="{{ member.email }}">{{ member.name }}</a></span></li>
+      {% endfor %}
   </ul>
 
 </header>

@@ -1,0 +1,46 @@
+#+title: STIL 2019
+
+** Instalação 
+
+O site é gerado usando [[https://jekyllrb.com/docs/][jekyll]]. 
+
+#+BEGIN_SRC bash
+
+$ apt-get install ruby-full build-essential zlib1g-dev
+
+$ gem install jekyll bundler
+
+$ cd STIL-2019/
+
+$ jekyll new minima
+
+#+END_SRC
+
+
+** Modificando e gerando o site
+   
+Segue a lista dos arquivos a serem modificados:
+
+- =_config.yml=
+
+- =_data/utils.yml=
+
+- =cfp.md=
+
+- =home.md=
+
+- =organization.md=
+
+- =program.md=
+
+- =registration.md=
+
+- =submission.md=
+
+Para acompanhar as mudanças feitas basta executar =jekyll server= e
+acessar o [[http://localhost:4000][http://localhost:4000]] seguido da =baseurl= escolhida no
+arquivo =_config.yml=.
+
+Para gerar os arquivos para publicação do site basta executar =jekyll
+build=, esse comando salvará o site na pasta =_site= e depois basta
+copiar os arquivos para o servidor.
