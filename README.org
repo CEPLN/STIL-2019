@@ -10,6 +10,8 @@ $ apt-get install ruby-full build-essential zlib1g-dev
 
 $ gem install jekyll bundler
 
+$ git clone https://github.com/CEPLN/STIL-2019
+
 $ cd STIL-2019/
 
 $ jekyll new minima
