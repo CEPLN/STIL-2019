@@ -23,6 +23,6 @@ STIL will have the following collocated events:
 - VI Student Workshop on Information and Human Language Technology ([TILic]()).
 
 
-We are happy to welcome you in **Salvador**.
+We are happy to welcome you in Salvador.
 
 
