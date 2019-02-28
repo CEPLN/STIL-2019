@@ -7,18 +7,26 @@ title: Organization
 
 __Local STIL Chair:__
 
-Marlo Souza (Federal University of Bahia – UFBA, Salvador, BA, Brazil)
+- Marlo Souza (Federal University of Bahia – UFBA, Salvador, BA, Brazil)
 
 
 __Program STIL Chairs:__
 
-Carlos Augusto Prolo (Federal University of Rio Grande do Norte – UFRN, Natal, RN, Brazil) 
-Leandro Henrique Mendonça de Oliveira (Brazilian Agricultural Research Corporation, EMBRAPA, Brasília, DF, Brasil)
+- Carlos Augusto Prolo (Federal University of Rio Grande do Norte – UFRN, Natal, RN, Brazil) 
+- Leandro Henrique Mendonça de Oliveira (Brazilian Agricultural Research Corporation, EMBRAPA, Brasília, DF, Brasil)
+
+__JDP Chairs:__
+
+_Em breve_ (_Coming soon_)
+
+__TILic Chairs:__
+
+- Helena Medeiros Caseli (Federal University of São Carlos – UFSCar, São Carlos, SP, Brazil)
 
 __Apoio__
 
-Henrique Nascimento Muniz de Andrade (Getulio Vargas Foundation - Rio de Janeiro, RJ, Brazil)
+- Henrique Nascimento Muniz de Andrade (Getulio Vargas Foundation - Rio de Janeiro, RJ, Brazil)
 
 __PROGRAM COMMITTEE__
 
-_TODO_
+_Coming soon_

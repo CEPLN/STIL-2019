@@ -7,9 +7,9 @@ title: Home
 # STIL - Symposium in Information and Human Language Technology
 
 STIL is the bi-annual Language Technology event supported by the
-Brazilian Computer Society (SBC – [http://www.sbc.org.br](http://www.sbc.org.br)) and by the
+Brazilian Computer Society ([SBC](http://www.sbc.org.br)) and by the
 Brazilian Special Interest Group on Natural Language Processing
-(CE-PLN – [http://www.nilc.icmc.usp.br/cepln/](http://www.nilc.icmc.usp.br/cepln/)).
+([CE–PLN](http://comissoes.sbc.org.br/ce-pln/)).
 
 The conference has a multidisciplinary nature and covers a broad
 spectrum of disciplines related to Human Language Technology, such as

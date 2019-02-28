@@ -5,5 +5,4 @@ title: Registration
 
 # Registration 
 
-
-_TODO_
+_Coming soon_
