@@ -20,7 +20,7 @@ STIL is the bi-annual Language Technology event supported by the Brazilian Compu
 
 In 2019, it will be held in conjunction with both BRACIS 2019 (The 8th Brazilian Conference on Intelligent Systems) and ENIAC 2019 (XVI Encontro Nacional de Inteligência Artificial e Computacional).
 
-STIL will have the following collocated events: the VI Workshop on Portuguese Description (JDP), the VI Student Workshop on Information and Human Language Technology (TILic), and the second edition of the shared task Evaluation of Semantic Textual Similarity and Textual Inference in Portuguese (Segundo ASSIN).
+STIL will have the following collocated events: the VI Workshop on Portuguese Description (JDP), the VI Student Workshop on Information and Human Language Technology (TILic), and the second edition of the shared task Evaluation of Semantic Textual Similarity and Textual Inference in Portuguese (ASSIN 2).
 
 The conference has a multidisciplinary nature and covers a broad spectrum of disciplines related to Human Language Technology, such as Linguistics, Computer Science, Psycholinguistics, Information Science, among others. It aims at bringing together both academic and industrial participants working on those areas.
 
@@ -69,8 +69,8 @@ _**GUIDELINES FOR PAPER SUBMISSION**_
 <b><u>Important Dates</u></b>: All deadlines are 11:59 p.m. UTC-12:00 - anywhere on earth!
  
 - Deadline for long and short paper submissions: **May 19, 2019**
-- Notification of aceptance: **July 29, 2019**
-- Final camera-ready versions due: **August 11, 2019**
+- Notification of aceptance: **July 08, 2019**
+- Final camera-ready versions due: **August 04, 2019**
 
 <b><u>Submission System</u></b>: Long and short papers should only be submitted in PDF files via [JEMS System](https://submissoes.sbc.org.br/home.cgi?c=3310) by the deadline indicated above.
 

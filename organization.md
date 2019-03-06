@@ -17,7 +17,7 @@ __Program STIL Chairs:__
 
 __JDP Chairs:__
 
-_Em breve_ (_Coming soon_)
+- Sandra Maria Aluísio (University of São Paulo – USP/ICMC/NILC, São Carlos, SP, Brazil)
 
 __TILic Chairs:__
 
