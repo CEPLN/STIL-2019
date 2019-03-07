@@ -12,16 +12,22 @@ __Local STIL Chair:__
 
 __Program STIL Chairs:__
 
-- Carlos Augusto Prolo (Federal University of Rio Grande do Norte – UFRN, Natal, RN, Brazil) 
-- Leandro Henrique Mendonça de Oliveira (Brazilian Agricultural Research Corporation, EMBRAPA, Brasília, DF, Brasil)
+- [Carlos Augusto Prolo](mailto:prolo@dimap.ufrn.br) (Federal University of Rio Grande do Norte – UFRN, Natal, RN, Brazil) 
+- [Leandro Henrique Mendonça de Oliveira](mailto:lhmoliveira@gmail.com) (Brazilian Agricultural Research Corporation, EMBRAPA, Brasília, DF, Brasil)
 
 __JDP Chairs:__
 
-- Sandra Maria Aluísio (University of São Paulo – USP/ICMC/NILC, São Carlos, SP, Brazil)
+- [Sandra Maria Aluísio](mailto:sandra@icmc.usp.br) (University of São Paulo – USP/ICMC/NILC, São Carlos, SP, Brazil)
 
 __TILic Chairs:__
 
-- Helena Medeiros Caseli (Federal University of São Carlos – UFSCar, São Carlos, SP, Brazil)
+- [Helena Medeiros Caseli](mailto:helenacaseli@ufscar.br) (Federal University of São Carlos – UFSCar, São Carlos, SP, Brazil)
+
+__ASSIN 2 Chairs:__
+
+- [Livy Maria Real Coelho](mailto:livyreal@gmail.com) (IBM Research Brazil - São Paulo, SP, Brazil)
+- [Erick Rocha Fonseca](mailto:erickrfonseca@gmail.com)
+- [Hugo Gonçalo Oliveira](mailto:hgoliv@gmail.com)
 
 __Apoio__
 
