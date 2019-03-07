@@ -21,6 +21,7 @@ STIL will have the following collocated events:
 
 - VI Workshop on Portuguese DescriptionV Workshop on Portuguese Description ([JDP]())
 - VI Student Workshop on Information and Human Language Technology ([TILic]()).
+- II Evaluation of Semantic Textual Similarity and Textual Inference in Portuguese ([ASSIN 2]())
 
 
 We are happy to welcome you in Salvador.
