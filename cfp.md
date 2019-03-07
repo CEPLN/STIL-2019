@@ -12,7 +12,7 @@ _First Call for Papers: STIL 2019 - The 12th Brazilian Symposium in Information 
 ### <center>12th Brazilian Symposium in Information and Human Language Technology</center>
 ### <center>Salvador, BA, Brazil, October 15-18, 2019</center>
 
-**[STIL 2019](http://comissoes.sbc.org.br/ce-pln/stil19/)**
+**[STIL 2019](http://comissoes.sbc.org.br/ce-pln/stil2019/)**
 
 **Deadline for paper submissions: May 19, 2019**
 
