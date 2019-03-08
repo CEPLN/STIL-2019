@@ -25,9 +25,9 @@ __TILic Chairs:__
 
 __ASSIN 2 Chairs:__
 
-- [Livy Maria Real Coelho](mailto:livyreal@gmail.com) (IBM Research Brazil - São Paulo, SP, Brazil)
-- [Erick Rocha Fonseca](mailto:erickrfonseca@gmail.com)
-- [Hugo Gonçalo Oliveira](mailto:hgoliv@gmail.com)
+- [Livy Real](mailto:livyreal@gmail.com) (B2W Digital / GLiC-USP, São Paulo, Brazil)
+- [Erick Rocha Fonseca](mailto:erickrfonseca@gmail.com) (Instituto de Telecomunicações, Lisbon, Portugal)
+- [Hugo Gonçalo Oliveira](mailto:hgoliv@gmail.com) (Centro de Informática e Sistemas da Universidade de Coimbra, Portugal)
 
 __Apoio__
 
