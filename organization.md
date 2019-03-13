@@ -18,6 +18,9 @@ __Program STIL Chairs:__
 __JDP Chairs:__
 
 - [Sandra Maria Aluísio](mailto:sandra@icmc.usp.br) (University of São Paulo – USP/ICMC/NILC, São Carlos, SP, Brazil)
+- Stella Tagnin (University of São Paulo - FFLCH-USP, São Paulo, SP, Brazil)
+- Lilian Cristine Hübner (Pontifical Catholic University of Rio Grande do Sul - PUC-RS, Porto Alegre, RS, Brazil)
+- Gustavo Lopez Estivalet (Federal University of Paraíba - UFPB, João Pessoa, PB, Brazil)
 
 __TILic Chairs:__
 
