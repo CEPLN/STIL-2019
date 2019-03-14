@@ -25,6 +25,7 @@ __JDP Chairs:__
 __TILic Chairs:__
 
 - [Helena Medeiros Caseli](mailto:helenacaseli@ufscar.br) (Federal University of São Carlos – UFSCar, São Carlos, SP, Brazil)
+- [Maria Cláudia Freitas](maclaudia.freitas@gmail.com) (Pontifical Catholic University of Rio do Janeiro - PUC-RJ, Rio de Janeiro, RJ, Brazil)
 
 __ASSIN 2 Chairs:__
 
