@@ -20,7 +20,7 @@ industrial participants working on those areas.
 STIL will have the following collocated events:
 
 - VI Workshop on Portuguese DescriptionV Workshop on Portuguese Description ([JDP](https://sites.google.com/view/jdp2019))
-- VI Student Workshop on Information and Human Language Technology ([TILic]()).
+- VI Student Workshop on Information and Human Language Technology ([TILic](https://sites.google.com/view/tilic2019)).
 - II Evaluation of Semantic Textual Similarity and Textual Inference in Portuguese ([ASSIN 2]())
 
 
