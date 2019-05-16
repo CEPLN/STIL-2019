@@ -5,6 +5,9 @@ title: Home
 ---
 
 # STIL - Symposium in Information and Human Language Technology
+___
+### <center>New submission dealine: May, 26, 2019<center>
+___
 
 STIL is the bi-annual Language Technology event supported by the
 Brazilian Computer Society ([SBC](http://www.sbc.org.br)) and by the

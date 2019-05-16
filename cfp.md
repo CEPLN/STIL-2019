@@ -14,7 +14,7 @@ _First Call for Papers: STIL 2019 - The 12th Brazilian Symposium in Information 
 
 **[STIL 2019](http://comissoes.sbc.org.br/ce-pln/stil2019/)**
 
-**Deadline for paper submissions: May 19, 2019**
+**Deadline for paper submissions: ~~May 19, 2019~~ / May, 26. 2019**
 
 STIL is the bi-annual Language Technology event supported by the Brazilian Computer Society ([SBC](http://www.sbc.org.br)) and by the Brazilian Special Interest Group on Natural Language Processing ([CE–PLN](http://comissoes.sbc.org.br/ce-pln/)).
 
@@ -68,7 +68,7 @@ _**GUIDELINES FOR PAPER SUBMISSION**_
 
 <b><u>Important Dates</u></b>: All deadlines are 11:59 p.m. UTC-12:00 - anywhere on earth!
  
-- Deadline for long and short paper submissions: **May 19, 2019**
+- Deadline for long and short paper submissions: ~~**May 19, 2019**~~ / **May 26, 2019**
 - Notification of aceptance: **July 08, 2019**
 - Final camera-ready versions due: **August 04, 2019**
 
