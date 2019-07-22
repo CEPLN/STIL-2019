@@ -5,4 +5,6 @@ title: Registration
 
 # Registration 
 
-_Coming soon_
+Follow the BRACIS 2019 website instructions to register.
+
+[BRACIS Registration](http://www.bracis2019.ufba.br/#team)
