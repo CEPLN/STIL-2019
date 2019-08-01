@@ -5,8 +5,10 @@ title: Home
 ---
 
 # STIL - Symposium in Information and Human Language Technology
+
+## October, 15 - 18, 2019, Salvador, BA
 ___
-### <center>New submission dealine: May, 26, 2019<center>
+### <center>New Camera-ready date: August, 15, 2019<center>
 ___
 
 STIL is the bi-annual Language Technology event supported by the
