@@ -70,7 +70,7 @@ _**GUIDELINES FOR PAPER SUBMISSION**_
  
 - Deadline for long and short paper submissions: ~~**May 19, 2019**~~ / **May 26, 2019**
 - Notification of aceptance: **July 08, 2019**
-- Final camera-ready versions due: **August 04, 2019**
+- Final camera-ready versions due: ~~**August 04, 2019**~~ / **August 22, 2019**
 
 <b><u>Submission System</u></b>: Long and short papers should only be submitted in PDF files via [JEMS System](https://submissoes.sbc.org.br/home.cgi?c=3310) by the deadline indicated above.
 

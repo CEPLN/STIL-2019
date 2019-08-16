@@ -8,7 +8,7 @@ title: Home
 
 ## October, 15 - 18, 2019, Salvador, BA
 ___
-### <center>New Camera-ready date: August, 15, 2019<center>
+### <center>New Camera-ready date: August, 22, 2019<center>
 ___
 
 STIL is the bi-annual Language Technology event supported by the
@@ -26,7 +26,7 @@ STIL will have the following collocated events:
 
 - VI Workshop on Portuguese DescriptionV Workshop on Portuguese Description ([JDP](https://sites.google.com/view/jdp2019))
 - VI Student Workshop on Information and Human Language Technology ([TILic](https://sites.google.com/view/tilic2019)).
-- II Evaluation of Semantic Textual Similarity and Textual Inference in Portuguese ([ASSIN 2]())
+- II Evaluation of Semantic Textual Similarity and Textual Inference in Portuguese ([ASSIN 2](https://sites.google.com/view/assin2/))
 
 
 We are happy to welcome you in Salvador.
