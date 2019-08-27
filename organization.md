@@ -37,6 +37,5 @@ __Apoio__
 
 - Henrique Nascimento Muniz de Andrade (Getulio Vargas Foundation - Rio de Janeiro, RJ, Brazil)
 
-__PROGRAM COMMITTEE__
 
-_Coming soon_
+
