@@ -8,8 +8,11 @@ title: Program
 <img src="generalprogram.png" alt="General Program STIL 2019" style="width: 650px; height: 268px;"/>
 </center>
 <br>
-For a better view download the general programa below:
+
+OBS. 1: For a better view download the general programa below:
 
 <a href="generalprogram-stil2019.pdf"><i>Download General Program (pdf)</i></a>
 <br>
 <a href="generalprogram.png"><i>Download General Program (png)</i></a>
+<br><br>
+OBS. 2> For detailed JDP programming, please visit: [JDP Program](https://sites.google.com/view/jdp2019/)
