@@ -125,7 +125,7 @@ _Gustavo Paiva Guedes (CEFET/RJ - Brazil)_
 _Diana Santos (Linguateca/Universidade de Oslo - Norway)_; 
 _Cláudia Freitas (Pontifícia Universidade Católica do Rio de Janeiro - Brazil)_
 
-- **Geração automática de questões de múltipla escolha
+- **Geração automática de questões de múltipla escolha**
 _Joyce Martins (Universidade Regional de Blumenau - Brazil)_; 
 _Eduardo Gehrke (FURB - Brazil)_
 
