@@ -3,9 +3,9 @@ layout: default
 title: Program
 ---
 
-# Invided Speaker and Tutorial
+# Invited Speaker and Tutorial
 ___
-### <center>Invided Speaker<center>
+### <center>Invited Speaker<center>
 ___
 ### _Profa. Dra. Maria José Bocorny Finatto_
 
