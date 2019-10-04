@@ -75,10 +75,10 @@ _Katerina Lukasova (UFABC - Brazil)_;
 _Maria Teresa Carthery-Goulart (UFABC - Brazil)_; 
 _Sandra Aluísio (USP/ICMC - Brazil)_; 
 
-- **B2W-Reviews01 - An open product reviews corpus**
-_Livy Real (B2W Digital/GLiC - Brazil)_; 
-_Marcio Oshiro (Universidade de São Paulo - Brazil)_; 
-_Alexandre Mafra (B2W Digital - Brazil)_; 
+- **B2W-Reviews01: An open product reviews corpus**
+_Livy Real (B2W Digital)_;
+_Marcio Oshiro (B2W Digital)_;
+_Alexandre Mafra (B2W Digital)_;
 
 - **Um modelo para Sistema de Diálogo Fim-a-Fim usando Conhecimento de Senso Comum.**
 _Cecília Carvalho (Universidade de Fortaleza - Brazil)_; 
