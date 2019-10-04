@@ -16,6 +16,8 @@ Computers will be available in all rooms, so you can bring your presentation in 
 
 For JDP presentations, please visit: [JDP Program](https://sites.google.com/view/jdp2019/)
 
+For TILic Posters, please visit: [TILic Posters Model](https://sites.google.com/view/tilic2019/trabalhos-aceitos)
+
 <center>
 <img src="detailedprogram.png" alt="General Program STIL 2019"/>
 </center>
