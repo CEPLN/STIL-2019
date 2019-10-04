@@ -10,7 +10,7 @@ title: Program
 <br>
 
 # Detailed Program
-**Poster and oral presentation instructions** : All STIL papers may be presented orally in Portuguese or English. We suggest that the oral presentation, slides and posters be in the same language chosen for paper submission. The oral presentation will last 19 minutes/paper (15 minutes for presentation and 4 minutes for questions and answers - Q&A).
+**Poster and oral presentation instructions** : All STIL papers may be presented orally in Portuguese or English. We suggest that the oral presentation, slides and posters (for STIL, JDP and TILic) be in the same language chosen for paper submission. The oral presentation will last 19 minutes/paper (15 minutes for presentation and 4 minutes for questions and answers - Q&A).
 
 Computers will be available in all rooms, so you can bring your presentation in a USB key or use your own computer, as you wish. In any case, though, please arrive at least 30 minutes before your session to allow enough time to copy/test your presentation.
 
