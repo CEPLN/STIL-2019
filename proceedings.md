@@ -14,7 +14,7 @@ In addition, the chairs will also arrange to register the proceedings of the 201
 
 Download Proceedings:
 
-- [Proceedings STIL 2019 - Draft Version](http://comissoes.sbc.org.br/ce-pln/stil2019/proceedings-stil-2019-Final.pdf)
+- [Proceedings STIL 2019 - Final Version](http://comissoes.sbc.org.br/ce-pln/stil2019/proceedings-stil-2019-Final-Publicacao.pdf)
 
 - [Proceedings STIL 2017](https://www.aclweb.org/anthology/W17-6600.pdf)
 
